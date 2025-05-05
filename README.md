@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-<h3> I'm a passionate MERN Stack developer from India</h3>
+<h3> I'm a passionate MERN Stack developer from INDIA</h3>
 <br>🤝 I’m looking to collaborate on Full Stack Projects<br>💬 Ask me about MERN Stack Development , Java , DSA<br>⚡ Fun fact : I love solving coding challenges and improving my problem-solving skills<br>
 
 
