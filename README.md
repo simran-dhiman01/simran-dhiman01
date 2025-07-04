@@ -17,12 +17,12 @@
 
 
 ## 📊 GitHub Stats:
-[![Simran's GitHub stats](https://github-readme-stats.vercel.app/api?username=simran-dhiman01&show_icons=true&theme=radical)](https://github.com/simran-dhiman01/github-readme-stats)
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simran-dhiman01&show_icons=true&theme=radical"/>
 
 ---
 
 ## 📌 Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simran-dhiman01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img alt= "Mostly used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-dhiman01&layout=compact&theme=radical"/>
 
 
 
